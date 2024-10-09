@@ -45,5 +45,4 @@ For the **Player vs AI** and **AI vs AI** modes, we implemented the AI using the
 import numpy as np
 import chess
 import random
-import pygame "# Chess-Project-with-simple-AI-" 
-# Chess-Project-with-simple-AI-
+import pygame 
